@@ -1,0 +1,2 @@
+# Reformat the names of the columns so they contain no spaces or numbers.
+df_shopping.rename( columns = {"Annual Income": "AnnualIncome"})
